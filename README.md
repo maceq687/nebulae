@@ -1,3 +1,4 @@
 # nebulae
 custom QU-Bit Electronix Nebulae Pd instruments <br>
-http://www.qubitelectronix.com/modules/nebulae
+Nebulae: http://www.qubitelectronix.com/modules/nebulae <br>
+Alternate instruments: http://www.qubitelectronix.com/nebul-alt-instruments/ <br>
