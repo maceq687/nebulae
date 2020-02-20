@@ -34,6 +34,16 @@ Simple 4-part drum generator
 * next button: drum2 (snare drum) trigger
 * recall button: drum1 (bass drum) trigger
 
+### Chord
+Stack of four oscillators with continuously variable waveshape with selectable harmonic relations
+* pitch: global pitch (1V/oct)
+* mix: global fine tune (-/+ 1 semitone)
+* grain size: all oscillators waveshape (ramp-triangle-saw-square-narrow pulse)
+* grain rate: chord quality (maj7-min7-dom7-half_dim)
+* loop start: chord inversion (root-1st-2nd-3rd)
+* freeze toggle: triad toggle (7th chord tone toggle)
+* next button: global octave switch (-/+ 2 octaves)
+
 ### DrDrum
 1-part drum generator capable of storing and editing 4 presets (resets after power off)
 * speed knob: noise/oscillator mix
