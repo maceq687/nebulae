@@ -35,7 +35,7 @@ Simple four-part drum generator
 * recall button: drum1 (bass drum) trigger
 
 ### Chord
-Stack of four oscillators with continuously variable waveshape with selectable harmonic relations
+Stack of four oscillators with continuously variable waveshapes and with selectable harmonic relations
 * pitch: global pitch (1V/oct)
 * mix: global fine tune (-/+ 1 semitone)
 * grain size: all oscillators waveshape (ramp-triangle-saw-square-narrow pulse)
