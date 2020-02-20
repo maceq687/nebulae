@@ -7,7 +7,7 @@ Alternate instruments: http://www.qubitelectronix.com/nebul-alt-instruments/ <br
 ## Description of the instruments:
 
 ### 3OP_FM
-Oscillator with 3 FM operators, 3rd modulating 2nd, 2nd modulating 1st (basically a half of the 3rd DX7 algorithm)
+Oscillator build of three stacked FM operators, 3rd modulating 2nd, 2nd modulating 1st (basically a half of the 3rd DX7 algorithm)
 
 * speed knob: global octave switch (+0...4 octaves)
 * glide knob: glide for 2nd and 3rd operator
@@ -24,7 +24,7 @@ Oscillator with 3 FM operators, 3rd modulating 2nd, 2nd modulating 1st (basicall
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ### 4SimpleDrums
-Simple 4-part drum generator
+Simple four-part drum generator
 * speed knob: drum1 level
 * pitch knob: drum2 level
 * grain size knob: drum3 level
@@ -45,7 +45,7 @@ Stack of four oscillators with continuously variable waveshape with selectable h
 * next button: global octave switch (-/+ 2 octaves)
 
 ### DrDrum
-1-part drum generator capable of storing and editing 4 presets (resets after power off)
+One-part drum generator capable of storing and editing 4 presets (resets after power off)
 * speed knob: noise/oscillator mix
 * glide knob: low pass filter cutoff frequency
 * pitch knob: drum presets 1-4 select (does not responds well to fast changing CV voltage)
