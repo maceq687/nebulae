@@ -17,9 +17,11 @@ Oscillator build of three stacked FM operators, 3rd modulating 2nd, 2nd modulati
 * loop start knob: 2nd operator index
 * loop size knob: 3rd operator index 
 
-![3 operator FM algorithm](3op_FM.png)
+<img src="Nebulae_3OP_FM\Nebulae_3OP_FM_manual.jpg" width="587" height="384">
 
-3OP_FM Example:
+<img src="Nebulae_3OP_FM/Nebulae_3OP_FM_algo.png" width="107" height="218">
+
+3OP_FM Video demo:
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=KAsKHrH6iwU
 " target="_blank"><img src="http://img.youtube.com/vi/KAsKHrH6iwU/0.jpg" 
@@ -36,6 +38,8 @@ Simple four-part drum generator
 * next button: drum2 (snare drum) trigger
 * recall button: drum1 (bass drum) trigger
 
+<img src="Nebulae_4SimpleDrums\Nebulae_4SimpleDrums_manual.jpg" width="587" height="384">
+
 ### Chord
 Stack of four oscillators with continuously variable waveshapes and with selectable harmonic relations
 * pitch: global pitch (1V/oct)
@@ -45,6 +49,8 @@ Stack of four oscillators with continuously variable waveshapes and with selecta
 * loop start: chord inversion (root-1st-2nd-3rd)
 * freeze toggle: triad toggle (7th chord tone toggle)
 * next button: global octave switch (-/+ 2 octaves)
+
+<img src="Nebulae_Chord\Nebulae_Chord_manual.jpg" width="587" height="384">
 
 ### DrDrum
 One-part drum generator capable of storing and editing 4 presets (resets after power off)
@@ -59,6 +65,8 @@ One-part drum generator capable of storing and editing 4 presets (resets after p
 * next button: randomize all parameters
 * recall button: trigger input
 
+<img src="Nebulae_DrDrum\Nebulae_DrDrum_manual.jpg" width="587" height="384">
+
 ### Dual_Osc
 Dual oscillator with continuously variable waveshape + low pass filter
 * speed knob: 2nd oscillator tune (-/+ 7 semitones)
@@ -71,3 +79,5 @@ Dual oscillator with continuously variable waveshape + low pass filter
 * loop size knob: low pass filter cutoff frequency
 * next button knob: oscillator 1 octave switch (-/+ 2 octaves)
 * recall button knob: oscillator 2 octave switch (-/+ 2 octaves)
+
+<img src="Nebulae_Dual_Osc\Nebulae_Dual_Osc_manual.jpg" width="587" height="384">
