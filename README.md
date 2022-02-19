@@ -6,7 +6,7 @@ Alternate instruments: https://www.qubitelectronix.com/nebul-alt-instruments/ <b
 
 ## Description of the instruments:
 
-### 3OP_FM
+### 3OP FM
 Oscillator build of three stacked FM operators, 3rd modulating 2nd, 2nd modulating 1st (basically a half of the 3rd DX7 algorithm)
 
 * speed knob: global octave switch (+0...4 octaves)
@@ -19,9 +19,7 @@ Oscillator build of three stacked FM operators, 3rd modulating 2nd, 2nd modulati
 
 <img src="Nebulae_3OP_FM\Nebulae_3OP_FM_manual.jpg" width="587" height="384">
 
-<img src="Nebulae_3OP_FM/Nebulae_3OP_FM_algo.png" width="107" height="218">
-
-3OP_FM Video demo:
+3OP FM Video demo:
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=KAsKHrH6iwU
 " target="_blank"><img src="http://img.youtube.com/vi/KAsKHrH6iwU/0.jpg" 
@@ -67,7 +65,7 @@ One-part drum generator capable of storing and editing 4 presets (resets after p
 
 <img src="Nebulae_DrDrum\Nebulae_DrDrum_manual.jpg" width="587" height="384">
 
-### Dual_Osc
+### Dual Osc
 Dual oscillator with continuously variable waveshape + low pass filter
 * speed knob: 2nd oscillator tune (-/+ 7 semitones)
 * glide knob: fm modulation amount (2nd oscillator modulates 1st oscillator frequency)
