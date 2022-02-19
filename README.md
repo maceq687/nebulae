@@ -1,8 +1,8 @@
 # nebulae
-custom QU-Bit Electronix Nebulae v1 Pd instruments <br>
-discussion: https://www.muffwiggler.com/forum/viewtopic.php?p=2278911#2278911 <br>
-Nebulae: http://www.qubitelectronix.com/legacymodules <br>
-Alternate instruments: http://www.qubitelectronix.com/nebul-alt-instruments/ <br>
+My custom QU-Bit Electronix Nebulae v1 Pd instruments <br>
+discussion: https://modwiggler.com/forum/viewtopic.php?p=2278911#2278911 <br>
+Nebulae: https://www.qubitelectronix.com/legacy <br>
+Alternate instruments: https://www.qubitelectronix.com/nebul-alt-instruments/ <br>
 
 ## Description of the instruments:
 
