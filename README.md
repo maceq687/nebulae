@@ -17,6 +17,8 @@ Oscillator build of three stacked FM operators, 3rd modulating 2nd, 2nd modulati
 * loop start knob: 2nd operator index
 * loop size knob: 3rd operator index 
 
+![3 operator FM algorithm](3op_FM.png)
+
 3OP_FM Example:
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=KAsKHrH6iwU
